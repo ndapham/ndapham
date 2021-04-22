@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Pham Nguyen Duc Anh</h1>
 <h3 align="center">A Vietnameses guy that loves AI.</h3>
 
-- 🔭 I’m currently studying at [Hanoi University of Science and Technology.](https://www.hust.edu.vn)
+- 🔭 I’m currently studying at **[Hanoi University of Science and Technology.](https://www.hust.edu.vn)**
 
-- 🌱 I’m interested in **applying AI and IoT to solve practical problems.**
+- 🌱 I’m interested in applying AI and IoT to solve practical problems.
 
 - 👯 I’m looking to collaborate on **ML/DL projects.**
 
 - 💬 Ask me about **AI,ML/DL.**
 
-- 📫 How to reach me **pducanh2000@gmail.com**
+- 📫 How to reach me **[My Email](pducanh2000@gmail.com)**
 
 - ⚡ Fun fact **I love rap songs.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://kaggle.com/ducanhpham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/kaggle.svg" alt="ducanhpham" height="30" width="40" /></a>
-<a href="https://fb.com/ducanh.pham.121772" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="ducanh.pham.121772" height="30" width="40" /></a>
+<a href="https://kaggle.com/ducanhpham" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="ducanhpham" height="30" width="40" /></a>
+<a href="https://fb.com/ducanh.pham.121772" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ducanh.pham.121772" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ducanhpham" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="ducanhpham" height="30" width="40" /></a>
 </p>
 
