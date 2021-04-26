@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pham Nguyen Duc Anh</h1>
-<h3 align="center">A Vietnameses guy that loves AI.</h3>
+
 
 - 🔭 I’m currently studying at **[Hanoi University of Science and Technology.](https://www.hust.edu.vn)**
 
