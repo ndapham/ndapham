@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Pham Nguyen Duc Anh</h1>
+<h1 align="center">Hi there 👋,</h1>
 
+- 👨 I'm Pham Nguyen Duc Anh
 
-- 🔭 I’m currently studying at **[Hanoi University of Science and Technology.](https://www.hust.edu.vn)**
+- 🌱 I’m currently studying at **[Hanoi University of Science and Technology.](https://www.hust.edu.vn)**
 
-- 🌱 I’m interested in applying AI and IoT to solve practical problems.
+- 🔭 I’m interested in applying AI and IoT to solve practical problems.
 
 - 👯 I’m looking to collaborate on **ML/DL projects.**
 
