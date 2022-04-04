@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **AI,ML/DL.**
 
-- 📫 You can reach me via **[email](pducanh2000@gmail.com)**
+- 📫 You can reach me via **pducanh2000@gmail.com**
 
 - ⚡ Fun fact **I love rap songs.**
 
