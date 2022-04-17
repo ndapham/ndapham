@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋,</h1>
 
-- 👨 I'm Pham Nguyen Duc Anh
+- 👨 I'm **Pham Nguyen Duc Anh**
 
 - 🌱 I’m currently studying at **[Hanoi University of Science and Technology.](https://www.hust.edu.vn)**
 
