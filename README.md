@@ -11,12 +11,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ndapham.ndapham&"  />
-</div>
-
-###
-
 <h1 align="center">Hey there 👋 I'm Pham Nguyen Duc Anh</h1>
 
 <!---
@@ -65,6 +59,11 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ndapham&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ndapham.ndapham&"  />
 </div>
 
 ###
