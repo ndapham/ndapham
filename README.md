@@ -1,5 +1,5 @@
 <div align="center">  
-  <img height="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVwbHZhdmxsODg3amI2aGtnMnZ5eWE1bDAxYzk4Z2ZoMHprNzE0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OumCa12QC9CIvBe2c1/giphy.gif" />
+  <img height="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXdnbDk0ZHljMDB4aGRtaHdlMWRoaHYwazhzNGU2Ymd6MGM2cTJleSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ttknk7M3d3UBEeZsii/giphy.gif" />
 </div>
 
 ###
@@ -52,7 +52,7 @@
 
 ###
 -->
-
+<!---
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
@@ -60,8 +60,10 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ndapham&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+-->
 
 ###
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ndapham.ndapham&"  />
 </div>
