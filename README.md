@@ -11,7 +11,7 @@
 
 ###
 
-<h1 align="center">Hey there 👋 My name is Pham Nguyen Duc Anh</h1>
+<h1 align="center">Hey there 👋 My name is Pham Nguyen Duc Anh.</h1>
 
 <!---
 ###
