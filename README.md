@@ -1,5 +1,5 @@
 <div align="center">  
-  <img height="100"; src="./media/intro2 (1).gif" />
+  <img height="500"; src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXdnbDk0ZHljMDB4aGRtaHdlMWRoaHYwazhzNGU2Ymd6MGM2cTJleSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ttknk7M3d3UBEeZsii/giphy.gif" />
 </div>
 
 ###
@@ -9,6 +9,9 @@
   <a href="https://x.com/ndapham00"> <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="x logo"  /> 
 </div>
 
+###
+
+<h1 align="center">Hey there 👋 My name is Pham Nguyen Duc Anh.</h1>
 
 ###
 
