@@ -9,10 +9,6 @@
   <a href="https://x.com/ndapham00"> <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="x logo"  /> 
 </div>
 
-###
-
-<h1 align="center">Hey there 👋 My name is Pham Nguyen Duc Anh.</h1>
-
 
 ###
 
