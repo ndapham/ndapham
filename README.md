@@ -1,22 +1,55 @@
+<!-- ###
+<div align="center">
+  <img src="./media/intro2_crop.gif" style="border:1px solid #19dfb7ff" />
+</div> -->
+
+###
+# <h1> Hi there  :wave: </h1>
+###
+
 <div align="center">  
-  <img width="1000"; src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXdnbDk0ZHljMDB4aGRtaHdlMWRoaHYwazhzNGU2Ymd6MGM2cTJleSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ttknk7M3d3UBEeZsii/giphy.gif" />
+  <img width="1000"; src="" />
+</div>
+
+
+<p align="center"> 
+<b> <i> I’m an AI researcher focused on building solutions that positively impact everyday life. </i> </b> 
+</p> 
+
+<p align = "center"> 
+<img src="./media/cat.gif"  height="45">
+<img src="./media/dog.gif" height="45">
+<img src="./media/cat.gif"  height="45">
+</p>
+
+###
+<h3 align="left">
+  :information_desk_person: About me
+</h3>
+
+<p align="left"> :mag: Currently, I'm interested in multimodal learning and its applications. </p>
+<p align="left"> :raised_hands: I'm open to collaborating on machine learning and AI projects. </p>  
+<p align="left">  :soccer: Just a fun fact, I’m a fan of Manchester United. <img src="./media/mu_flag.gif" height="14px" style="border:1px solid #19dfb7ff" /> </p>
+
+
+###
+<h3 align="left">
+  :speech_balloon: Contact me via
+</h3>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ndapham/"> <img src="./media/linkedin_logo.png" width="35px" height="35" alt="linkedin logo"  style="border:1px solid #19dfb7ff"/>  
+  <a href="https://x.com/ndapham00"> <img src="./media/x_logo.jpg" width="35px" height="35" alt="x logo" style="border:1px solid #19dfb7ff" /> 
+  <a href="pducanh2000@gmail.com"> <img src="./media/gmail_logo.png" width="35px" height="35" alt="gmail logo" style="border:1px solid #19dfb7ff" /> 
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ndapham/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <a href="https://x.com/ndapham00"> <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="x logo"  /> 
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ndapham.ndapham&" style="border:1px solid #19dfb7ff" />
 </div>
 
 ###
 
-<h1 align="center">Hey there 👋 My name is Pham Nguyen Duc Anh.</h1>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ndapham.ndapham&"  />
-</div>
-
-###
+<img src="./media/waves.svg" width="100%" height="150">
