@@ -4,13 +4,18 @@
 </div> -->
 
 ###
-# <h1> Hi there  :wave:. This is Duc Anh:octocat: </h1>
+
+<h1> Hi there  :wave:. This is Duc Anh 🧑‍💻 </h1>
+
 ###
 
+###
 
 <p align="center"> 
 <b> <i> I’m an AI researcher focused on building solutions that positively impact everyday life. </i> </b> 
 </p> 
+
+###
 
 <p align = "center"> 
 <img src="./media/cat.gif"  height="45">
