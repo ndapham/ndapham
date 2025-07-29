@@ -7,10 +7,6 @@
 # <h1> Hi there  :wave: </h1>
 ###
 
-<div align="center">  
-  <img width="1000"; src="" />
-</div>
-
 
 <p align="center"> 
 <b> <i> I’m an AI researcher focused on building solutions that positively impact everyday life. </i> </b> 
@@ -23,9 +19,9 @@
 </p>
 
 ###
-<h3 align="left">
+<h2 align="left">
   :information_desk_person: About me
-</h3>
+</h2>
 
 <p align="left"> :mag: Currently, I'm interested in multimodal learning and its applications. </p>
 <p align="left"> :raised_hands: I'm open to collaborating on machine learning and AI projects. </p>  
@@ -33,9 +29,9 @@
 
 
 ###
-<h3 align="left">
+<h2 align="left">
   :speech_balloon: Contact me via
-</h3>
+</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ndapham/"> <img src="./media/linkedin_logo.png" width="35px" height="35" alt="linkedin logo"  style="border:1px solid #19dfb7ff"/>  
