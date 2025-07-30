@@ -68,7 +68,8 @@
 ###
 
 <h2>
-:yt: Featured Youtube videos
+<img src="./media/youtube_logo.png" height="16">
+Featured Youtube videos
 </h2>
 <!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
 <!-- If you want to display the latest videos, then simply follow the instructions in the above repo. -->
@@ -89,7 +90,7 @@
   </a> 
   <a href="https://youtu.be/GKSRyLdjsPA?si=zIl9YlFEzHvgtp-W"> <img src="https://ytcards.demolab.com/?id=GKSRyLdjsPA&title=Sia+-+The+Greatest+(Official+Video)&lang=en&timestamp=1473112800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=351"/> 
   </a> 
-  <a href="https://youtu.be/gOsM-DYAEhY?si=flMlbry8Pf5pwV6t"> <img src="https://ytcards.demolab.com/?id=gOsM-DYAEhY&title=Imagine Dragons - Whatever It Takes (Official Music Video)&lang=en&timestamp=1507759200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=219"/> 
+  <a href="https://youtu.be/gOsM-DYAEhY?si=flMlbry8Pf5pwV6t"> <img src="https://ytcards.demolab.com/?id=gOsM-DYAEhY&title=Imagine+Dragons+-+Whatever+It+Takes+(Official+Music+Video)&lang=en&timestamp=1507759200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=219"/> 
   </a> 
 </p>
 
