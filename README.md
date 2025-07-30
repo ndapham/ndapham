@@ -45,7 +45,7 @@
 </h2>
 
 - <p align="left"> :mag: Currently, I'm interested in multimodal learning and its applications. </p>
-- <p align="left"> :raised_hands: I'm open to collaborating on machine learning and AI projects. </p>  
+- <p align="left"> :raised_hands: I'm open to collaborating with teams working on AI-related products. </p>  
 - <p align="left">  :soccer: Just a fun fact, I’m a fan of Manchester United. <img src="./media/mu_flag.gif" height="14px" style="border:1px solid #19dfb7ff" /> </p>
 
 
