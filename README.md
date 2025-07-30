@@ -1,13 +1,6 @@
-<!-- ###
-<div align="center">
-  <img src="./media/intro2_crop.gif" style="border:1px solid #19dfb7ff" />
-</div> -->
-
 ###
 
 <h1> Hi there  :wave:. This is Duc Anh 🧑‍💻 </h1>
-
-###
 
 ###
 
@@ -19,13 +12,13 @@
   <a href="https://ndapham.github.io.">
       <img alt="my portfolio" src="https://img.shields.io/badge/My_Portfolio-bd4e22?link=https%3A%2F%2Fndapham.github.io." />
   </a>
-  <a href="https://ndapham.github.io.">
+  <a href="https://github.com/ndapham?tab=followers">
       <img alt="followers" src="https://img.shields.io/github/followers/ndapham?style=flat&color=c9c27d" />
   </a>
-  <a href="https://ndapham.github.io.">
+  <a href="https://github.com/ndapham?tab=repositories">
       <img alt="stars" src="https://img.shields.io/github/stars/ndapham?style=flat&color=08bd6e" />
   </a>
-  <a href="https://ndapham.github.io.">
+  <a>
       <img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=ndapham.ndapham" />
   </a>
 </p>
