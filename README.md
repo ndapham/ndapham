@@ -27,9 +27,9 @@
 ###
 
 <p align = "center"> 
-<img src="./media/cat.gif" height="50">
-<img src="./media/dog.gif" height="50">
-<img src="./media/cat.gif" height="50">
+<img src="./media/cat.gif" height="50" width= "30">
+<img src="./media/dog.gif" height="50" width= "80">
+<img src="./media/cat.gif" height="50" width= "30">
 </p>
 
 ###
@@ -39,7 +39,7 @@
 
 - <p align="left"> :mag: Currently, I'm interested in multimodal learning and its applications. </p>
 - <p align="left"> :raised_hands: I'm open to collaborating with teams working on AI-related products. </p>  
-- <p align="left">  :soccer: Just a fun fact, I’m a fan of Manchester United. <img src="./media/mu_flag.gif" height="14px" style="border:1px solid #19dfb7ff" /> </p>
+- <p align="left">  :soccer: Just a fun fact, I’m a fan of Manchester United. <img src="./media/mu_flag.gif" height="14px" width="24px" style="border:1px solid #19dfb7ff" /> </p>
 
 
 ###
