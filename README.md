@@ -52,7 +52,7 @@
   </a> 
   <a href="https://x.com/ndapham00"> <img src="./media/x_logo.jpg" width="35px" height="35" alt="x logo" style="border:1px solid #19dfb7ff" /> 
   </a> 
-  <a href="pducanh2000@gmail.com"> <img src="./media/gmail_logo.png" width="35px" height="35" alt="gmail logo" style="border:1px solid #19dfb7ff" /> 
+  <a href="mailto:pducanh2000@gmail.com"> <img src="./media/gmail_logo.png" width="35px" height="35" alt="gmail logo" style="border:1px solid #19dfb7ff" /> 
   </a> 
   <a href="https://www.reddit.com/user/pducanh2000/"> <img src="./media/reddit_logo.jpg" width="35px" height="35" alt="gmail logo" style="border:1px solid #19dfb7ff" /> 
   </a> 
