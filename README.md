@@ -59,11 +59,12 @@
 </div>
 
 ###
-
+<!-- # Uncomment to show Featured Youtube Video 
 <h2>
 <img src="./media/youtube_logo.png" height="16">
 Featured Youtube videos
 </h2>
+# Uncomment to show Featured Youtube Video -->
 <!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
 <!-- If you want to display the latest videos, then simply follow the instructions in the above repo. -->
 <!-- If you however want to select which videos display, then you can manually generate the video link by changing the below parameters in angle brackets. -->
@@ -71,7 +72,7 @@ Featured Youtube videos
 <!-- inspired by this tutorial video  https://youtu.be/DWFs6aqknqw?si=6A9o4X7SHRyXyXVJ -->
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+<!-- # Uncomment to show Featured Youtube Video 
 <p align="center">
   <a href="https://youtu.be/7aekxC_monc?si=oqT8af9wKLugzN31"> <img src="https://ytcards.demolab.com/?id=7aekxC_monc&title=Post+Malone+-+I+Like+You+(A+Happier+Song)+w.+Doja+Cat+[Official+Music+Video]&lang=en&timestamp=1658700000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=197"/> 
   </a> 
@@ -86,8 +87,7 @@ Featured Youtube videos
   <a href="https://youtu.be/gOsM-DYAEhY?si=flMlbry8Pf5pwV6t"> <img src="https://ytcards.demolab.com/?id=gOsM-DYAEhY&title=Imagine+Dragons+-+Whatever+It+Takes+(Official+Music+Video)&lang=en&timestamp=1507759200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=219"/> 
   </a> 
 </p>
-
+# Uncomment to show Featured Youtube Video -->
 <!-- END YOUTUBE-CARDS -->
 ###
-
 <img src="./media/waves.svg" width="100%" height="150">
